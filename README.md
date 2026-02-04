@@ -18,24 +18,23 @@ This application processes large datasets (CSV) of flight information from major
 **User Input:**
 > Enter Airport Code: **LHR**(or CDG)
 > Enter Year: **2025**(**2021** if CDG used)
-> Enter a two-character Airline code to plot a histogram:**af**(or other one)
+> Enter a two-character Airline code to plot a histogram:**af**(or other airport code)
 > other airline_codes-
- "BA": "British Airways",
- "AF": "Air France",
- "AY": "Finnair",
- "KL": "KLM",
- "SK": "Scandinavian Airlines",
- "TP": "TAP Air Portugal",   
- "TK": "Turkish Airlines",
- "W6": "Wizz Air",
- "U2": "easyJet",
- "FR": "Ryanair",
- "A3": "Aegean Airlines",
- "SN": "Brussels Airlines",
- "EK": "Emirates",
- "QR": "Qatar Airways",
- "IB": "Iberia",
- "LH": "Lufthansa"
+**BA**,
+**AF**,
+**AY**,
+**KL**,
+**SK**,
+**TP**,
+**TK**,
+**W6**,
+**U2**,
+**FR**,
+**SN**,
+**EK**,
+**QR**,
+**IB**,
+**LH**
 
 **System Output:**
 > "Analyzing London Heathrow 2025..."
