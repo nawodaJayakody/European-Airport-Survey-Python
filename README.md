@@ -18,7 +18,7 @@ This application processes large datasets (CSV) of flight information from major
 **User Input:**
 > Enter Airport Code: **LHR**(or CDG) |
 > Enter Year: **2025**(**2021** if CDG used) |
-> Enter a two-character Airline code to plot a histogram:**af**(or other airport code) |
+> Enter a two-character Airline code to plot a histogram:**AF**(or other airport code) |
 > other airline_codes-
 **BA**,
 **AF**,
