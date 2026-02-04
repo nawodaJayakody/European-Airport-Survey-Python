@@ -41,3 +41,4 @@ This application processes large datasets (CSV) of flight information from major
 > "Total Flights: 490"
 > "British Airways Delay Rate: 15.79%"
 > *[Histogram Window Opens]*
+> ![Flight Departure Histogram](Histogram.jpg)
